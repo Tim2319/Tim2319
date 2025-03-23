@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Tim2319
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋 I'm Tim.
 
-<!---
-Tim2319/Tim2319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about backend development and building scalable web applications.  
+🔧 Experienced with **Node.js, Express.js, MySQL, and RESTful API design**.  
+🎯 Currently learning **CI/CD, Docker, and cloud deployment**.  
+
+## 🛠️ Tech Stack  
+🔹 **Backend:** Node.js, Express.js  
+🔹 **Database:** MySQL, Sequelize ORM  
+🔹 **Authentication:** JWT (JSON Web Token)  
+🔹 **API Documentation:** Swagger  
+🔹 **DevOps (Learning):** Docker, GitHub Actions
+
+## 📫 How to reach me  
+💼 **LinkedIn:** [MyLinkedin](www.linkedin.com/in/ting-wei-chen-49b299202)  
+📧 **Email:** destiny65740@gmail.com
