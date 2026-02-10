@@ -14,3 +14,4 @@
 ## 📫 How to reach me  
 💼 **LinkedIn:** [MyLinkedin](www.linkedin.com/in/ting-wei-chen-49b299202)  
 📧 **Email:** destiny65740@gmail.com
+📧 **Personal Web:** [Tim Chen](https://tim-chen.vercel.app/)
